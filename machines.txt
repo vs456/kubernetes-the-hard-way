@@ -1,0 +1,3 @@
+10.0.0.212 server.homelab server  
+10.0.0.213 worker0.homelab worker0 10.0.0.0/24
+10.0.0.214 worker1.homelab worker1 10.0.0.0/24
